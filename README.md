@@ -6,7 +6,7 @@
 <p>Actualmente estoy aprendiendo:</p>
 <ul>
   <li><strong>Python</strong>(Aplicado al análisis de datos)</li>
-  <li>Seguridad en <strong>Spring</strong>(SprinSecurity - OAuth2)</li>
+  <li>Seguridad en <strong>Spring</strong>(SpringSecurity - OAuth2)</li>
 </ul>
 </p>
 
