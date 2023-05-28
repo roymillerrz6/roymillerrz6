@@ -3,10 +3,10 @@
 <p align="center">Soy Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Trujillo, me encanta la tecnología y en mis tiempos libres desarrollo proyectos de cualquier rama</p>
 <p>Si deseas puedes visitar mis repositorios que se encuentran en la siguiente sección :)</p>
 <p>
+<p>Actualmente estoy aprendiendo:</p>
 <ul>
-Actualmente estoy aprendiendo:
 <li>Python(Aplicado al análisis de datos)</li>
-<li>- Seguridad en Spring</li>
+<li>Seguridad en Spring</li>
 </ul>
 </p>
 
