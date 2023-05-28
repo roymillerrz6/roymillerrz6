@@ -2,7 +2,7 @@
 <h1 align="center">Hola 👋,Me llamo Roy Rios Zavaleta</h1>
 <p align="center">Soy Bachiller en Ingeniería de Sistemas de la Universidad Nacional de Trujillo, me encanta la tecnología y en mis tiempos libres desarrollo proyectos de cualquier rama</p>
 
-- 📫 Email: **roymillerrz@gmail.com**
+📫 Email: **roymillerrz@gmail.com**
 
 <h3 align="left">Perfil de Linkedin:</h3>
 <p align="left">
