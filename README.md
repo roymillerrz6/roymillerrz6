@@ -5,8 +5,8 @@
 <p>
 <p>Actualmente estoy aprendiendo:</p>
 <ul>
-  <li><strong>Python</strong> (Aplicado al análisis de datos)</li>
-  <!-- <li>Seguridad en <strong>Spring</strong> (SpringSecurity - OAuth2)</li> -->
+  <li><strong>Apache Spark</strong></li>
+  <li><strong>Soluciones Cloud para datos en Microsoft Azure</strong></li>
 </ul>
 
 Email: **roymillerrz@gmail.com**
